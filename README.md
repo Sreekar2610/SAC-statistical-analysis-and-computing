@@ -1,1 +1,1 @@
-# SAC :statistical analysis and computing
+# SAC : statistical analysis and computing
