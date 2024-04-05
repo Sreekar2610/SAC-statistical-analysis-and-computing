@@ -1,2 +1,1 @@
-# SAC-statistical-analysis-and-computing
-##by dr.praveen kumar
+# SAC :statistical analysis and computing
